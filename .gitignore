@@ -1,0 +1,6 @@
+bin/
+pkg/
+*.exe
+go.sum
+.idea/
+.vscode/
